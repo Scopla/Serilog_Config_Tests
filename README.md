@@ -1,4 +1,6 @@
-# Reproduce error
+# Solved trough Version 8.0.3 of Serilog.Settings.Configuration https://github.com/ArieGato/serilog-sinks-rabbitmq/issues/209
+
+## Reproduce error
 
 - Checkout repo
 - place breakpoint
